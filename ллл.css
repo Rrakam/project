@@ -1,13 +1,19 @@
 p{
  background-color:red;
+ height:100%;
 }
 ul{
  background-color:green;
 }
 table{
- width="100%";
- background-color:yellow; 
+ width:100%;
+ background-color:yellow;
+ height:100%;
 } 
 id{
  align="center"
+}
+body{
+	margin:0px;
+	padding:0px;
 }
