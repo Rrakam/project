@@ -1,19 +1,23 @@
 p{
- background-color:red;
  height:100%;
 }
 ul{
- background-color:green;
+ background-color:yellow;
 }
 table{
  width:100%;
- background-color:yellow;
+ background-color:orange;
  height:100%;
-} 
-id{
- align="center"
+ border-collapse: collapse;
+}
+#r1{
+ align:center;
+ background-color:red;
 }
 body{
 	margin:0px;
 	padding:0px;
+}
+#r2{
+	background-color:yellow;
 }
